@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 <p align="center">
-  <h1 style="color: #b38b6d">
-    tools that I use every day
-  </h1>
+  <i>tools that I use every day</i>
+  <hi></hi>
 </p>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
